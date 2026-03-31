@@ -1,5 +1,7 @@
 # 올리브영 립 제품 색상 분석 & 추천 시스템
 
+> Development of a Personalized Lip Color Recommendation System: A Review and Color Similarity-Based Approach
+
 ## 프로젝트 소개
 
 올리브영 립 제품의 색상을 추출하고 PCCS 톤 체계로 분류한 뒤, 사용자 리뷰 기반 협업 필터링(Collaborative Filtering)을 활용한 립 제품 추천 시스템입니다.
